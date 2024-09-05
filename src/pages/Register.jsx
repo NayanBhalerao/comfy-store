@@ -1,4 +1,4 @@
-import { FormInput, SubmitBtn } from '../components';
+import { FormInput, SubmitBtn } from '../Components';
 import { Form, redirect, Link } from 'react-router-dom';
 
 import { customFetch } from '../utils';
